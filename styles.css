@@ -16,8 +16,8 @@ body {
 button {
     border-radius: 50%;
     width: 55px;
-    height: 55px;
-    background: #ffcc01;
+    height: 55px;   
+    background: #ffcc01;bvcx        
     color: #fff;
     border: none;
     cursor: pointer;
@@ -26,8 +26,8 @@ button {
 }
 
 .zero {
-    border-radius: 40%;
-    width: 125px;
+    border-radius: 50px 50px 50px 50px;
+    width: 115px;
 }
 
 .container {
